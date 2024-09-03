@@ -7,7 +7,7 @@ In the financial sector, managing loan portfolios effectively is crucial for min
 Project Objectives:
 This project aims to analyze a bank's loan data to provide key performance indicators (KPIs) and other vital metrics that distinguish between good loans and defaulters. 
 
-Data Used :- The sales data used in this project is provided in the repository as a CSV file named ".csv".
+Data Used :- The sales data used in this project is provided in the repository as a CSV file named "financial_loan.csv".
 
 Tools used to Analysis data - PostgreSQL 
 
